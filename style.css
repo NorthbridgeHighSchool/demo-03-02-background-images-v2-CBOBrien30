@@ -16,3 +16,20 @@ html.eating-ice-cream{
  background-position: center, center;
  background-attachment: fixed;
  background-size: cover;
+}
+
+ html.sailing-boats{
+ background-image: url('sailboat.jpg');
+ background-repeat: no-repeat;
+ background-position: center, center;
+ background-attachment: fixed;
+ background-size: cover;
+ }
+
+ html.eating-seafood{
+ background-image: url('seafood.jpeg');
+ background-repeat: no-repeat;
+ background-position: center, center;
+ background-attachment: fixed;
+ background-size: cover;
+ }
