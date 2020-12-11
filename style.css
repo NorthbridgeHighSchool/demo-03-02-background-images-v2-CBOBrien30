@@ -1,5 +1,18 @@
 html.cape-cod-beaches{
- background-image: url('beach.jpeg');
+ background-image: url('beaches.jpg');
  background-repeat: no-repeat;
- background-position: 
+ background-position: center, center;
+ background-attachment: fixed;
+ background-size: cover;
 }
+.textblock{
+  background-color: rgba(209, 216, 224, 0.685);
+  margin-left: 55%;
+  padding: 20px;
+}
+html.eating-ice-cream{
+ background-image: url('icecream.jpeg');
+ background-repeat: no-repeat;
+ background-position: center, center;
+ background-attachment: fixed;
+ background-size: cover;
