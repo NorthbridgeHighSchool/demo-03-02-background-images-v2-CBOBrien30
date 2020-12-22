@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&family=Sniglet&display=swap');
+
 html.cape-cod-beaches{
  background-image: url('beaches.jpg');
  background-repeat: no-repeat;
@@ -63,11 +65,15 @@ a:active{
 }
 
 h1{
+  font-family: "Sniglet", fantasy;
   background-color: rgba(138, 173, 247, 0.637);
   color: rgb(16, 9, 65);
   border: 6px double rgb(31, 52, 168);
 }
 h2{
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: italic;
   background-color: rgba(138, 173, 247, 0.637);
   color: rgb(16, 9, 65);
 }
